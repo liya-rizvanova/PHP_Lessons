@@ -1,0 +1,14 @@
+[
+  {
+    "type": "digital",
+    "title": "PHP для начинающих",
+    "author": "Иван Иванов",
+    "downloadLink": "https://example.com/php"
+  },
+  {
+    "type": "paper",
+    "title": "Современная библиотека",
+    "author": "Мария Петрова",
+    "libraryAddress": "г. Москва, ул. Литературная, 10"
+  }
+]
