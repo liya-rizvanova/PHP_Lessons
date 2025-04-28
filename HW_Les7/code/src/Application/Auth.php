@@ -1,6 +1,6 @@
 <?php
 
-namespace HW_Les6\Application;
+namespace HW_Les7\Application;
 
 class Auth
 {

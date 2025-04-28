@@ -1,8 +1,8 @@
 <?php
 
-namespace HW_Les6\Domain\Controllers;
+namespace HW_Les7\Domain\Controllers;
 
-use HW_Les6\Application\Application;
+use HW_Les7\Application\Application;
 
 class AbstractController
 {

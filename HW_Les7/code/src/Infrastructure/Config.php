@@ -1,6 +1,6 @@
 <?php
 
-namespace HW_Les6\Infrastructure;
+namespace HW_Les7\Infrastructure;
 
 class Config {
 

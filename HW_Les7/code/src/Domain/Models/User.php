@@ -1,9 +1,9 @@
 <?php
 
-namespace HW_Les6\Domain\Models;
+namespace HW_Les7\Domain\Models;
 
-use HW_Les6\Application\Application;
-use HW_Les6\Infrastructure\Storage;
+use HW_Les7\Application\Application;
+use HW_Les7\Infrastructure\Storage;
 
 class User
 {

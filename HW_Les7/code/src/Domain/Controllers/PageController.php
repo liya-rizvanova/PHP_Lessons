@@ -1,8 +1,8 @@
 <?php
 
-namespace HW_Les6\Domain\Controllers;
+namespace HW_Les7\Domain\Controllers;
 
-use HW_Les6\Application\Render;
+use HW_Les7\Application\Render;
 
 class PageController
 {

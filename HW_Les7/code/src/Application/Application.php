@@ -1,16 +1,16 @@
 <?php
 
-namespace HW_Les6\Application;
+namespace HW_Les7\Application;
 
-use HW_Les6\Domain\Controllers\AbstractController;
-use HW_Les6\Infrastructure\Config;
-use HW_Les6\Infrastructure\Storage;
-use HW_Les6\Application\Auth;
+use HW_Les7\Domain\Controllers\AbstractController;
+use HW_Les7\Infrastructure\Config;
+use HW_Les7\Infrastructure\Storage;
+use HW_Les7\Application\Auth;
 
 class Application
 {
 
-    private const APP_NAMESPACE = 'HW_Les6\Domain\Controllers\\';
+    private const APP_NAMESPACE = 'HW_Les7\Domain\Controllers\\';
 
     private string $controllerName;
     private string $methodName;
