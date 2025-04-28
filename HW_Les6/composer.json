@@ -1,4 +1,5 @@
 {
+    "name": "geekbrains/application1",
     "require": {
         "twig/twig": "^3.20"
     },

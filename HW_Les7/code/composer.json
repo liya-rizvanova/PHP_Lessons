@@ -1,0 +1,11 @@
+{
+    "name": "geekbrains/application1",
+    "autoload": {
+        "psr-4": {
+            "HW_Les7\\": "code/src/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
